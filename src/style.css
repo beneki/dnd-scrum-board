@@ -1,0 +1,32 @@
+body {
+  background-color: #f3f3f3;
+}
+
+.bordContainer {
+  display: flex;
+  justify-content: space-between;
+
+  width: 90%;
+  /* max-width: 768px; */
+  /* height: 100vh; */
+
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.bordContainer .board {
+  min-width: 120px;
+  display: flex;
+  flex-direction: column;
+  background-color: #313131;
+  padding: 15px;
+}
+.bordContainer .board .card {
+  display: flex;
+  flex-direction: column;
+  padding: 15px 25px;
+  background-color: #f3f3f3;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
