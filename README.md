@@ -1,4 +1,4 @@
-### Mini Trello
+### Mini Scrum Board
 
 ###### Without using Redux lib and similar approaches like (useReducer + useContext)
 
