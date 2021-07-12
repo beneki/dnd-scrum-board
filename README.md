@@ -6,7 +6,7 @@
 
 ##### Note: In this project instead of using redux or simliar approaches (useReducer + useContext in react hooks) , I'm just using simple useState but trying to avoid extra rerendering by using forwardRef feature of react plus useImperativeHandle hook inside Board.tsx component and
 
-##### This project is deployed [right here](https://mahyarek.surge.sh/)
+##### :heavy_check_mark: This project is deployed [right here](https://mahyarek.surge.sh/) 
 
 ###### Dependecies: just react and react dom
 
